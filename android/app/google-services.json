@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630890631646",
+    "project_id": "speeasyyreactnativepush",
+    "storage_bucket": "speeasyyreactnativepush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630890631646:android:587f6d889bcdaf2f660d4f",
+        "android_client_info": {
+          "package_name": "com.speeasyydbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630890631646-r63btgrclhpq81gu25ekkgmffbm21ff8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxZrcBLwn4m87Y8kA6AYxQSIe_VBp47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630890631646-r63btgrclhpq81gu25ekkgmffbm21ff8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

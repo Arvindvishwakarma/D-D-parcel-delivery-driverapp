@@ -1,0 +1,9 @@
+rootProject.name = 'speeasyydbapp'
+include ':react-native-background-task'
+project(':react-native-background-task').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-background-task/android')
+include ':react-native-permissions'
+project(':react-native-permissions').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-permissions/android')
+include ':react-native-safe-area-context'
+project(':react-native-safe-area-context').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-safe-area-context/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
